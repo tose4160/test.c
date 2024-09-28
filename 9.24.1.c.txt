@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+	int right = 0;
+	int a ;
+	scanf_s("%d", &right);
+
+	//if (right <= 10)这样的写法不安全，如下为正确写法
+	if (right >= 1 && right <= 10)
+	{
+		a = right * 6;//注意；
+
+	}
+	else if (right >= 11 && right <= 20)
+	{
+		a = 60 + 2 * (right - 10);
+
+	}
+	else if (right >= 21 && right <= 40)
+	{
+		a = 80 + 1 * (right - 20);
+
+	}//一般不写三个if，一个变量怕满足多个条件
+	printf("%d", a);
+	return 0;
