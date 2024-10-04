@@ -1,0 +1,29 @@
+<arch>
+/               1728015374              0       37        `
+     (  (Add __JustMyCode_Default 
+/               1728015374              0       41        `
+   (       Add __JustMyCode_Default 
+//              1728015374              0       27        `
+Project3\x64\Debug\Add.obj 
+/0              1728015370              100666  2873      `
+d? 
+lf?  5       .drectve        ?                  
+ .debug$S        D  ?  ?         @ B.msvcjmc           ?              @ ?text$mn        =   ?  4          P`.debug$S        ?   H           @B.text$mn           ,               P`.debug$S        l   /  ?         @B.xdata             ?              @0@.pdata             ?  ?         @0@.rtc$IMZ           ?  ?         @@@.rtc$TMZ           ?           @@@.debug$T        d   
+              @ B.chks64         h   q               
+     /DEFAULTLIB:"MSVCRTD" /DEFAULTLIB:"OLDNAMES" /EDITANDCONTINUE /alternatename:__CheckForDebuggerJustMyCode=__JustMyCode_Default    ?   ?   O     D:\code\2024\瀛︿範1\test.c\Project3\Project3\Project3\x64\Debug\Add.obj : < a ?  ) H?   ) H?  Microsoft (R) Optimizing Compiler    ?                 __3B02585C_Add@c  ?   (       锾D#{?A?V?櫔載卑讼嗽曐?>?  ?   5    D:\code\2024\瀛︿範1\test.c\Project3\Project3\Add.c    ?       L
+  ?      
+ ?      
+ 塗$塋$UWH侅?   H峫$ H?    ?    悑呰   媿?   葖罤崶?   _]?                 ?   m   ) G            =      3             Add  ?   ?                 ? ?   t   Nx  ?   t   Ny  O   ?   8           =          ,         €    饊#     €3     €,      
+ 0      
+ ?      
+ ?      
+ ?     ?   ^   : G                                 @__JustMyCode_Default                         B  O  ,      
+ 0      
+ %# 
+p	P      =                         "                                       ^ 8Reo?K∧??恞?   D:\code\2024\瀛︿範1\test.c\Project3\Project3\x64\Debug\Project3.pdb 篁馎r 憡??损辟妒K?/4ET艓b?徢?盐?涛倽端祆癜~tWM峔瓏R??旺???]ZUp酢?z疷p酢?z輩扽?        @comp.idH?   @feat.00?€   @vol.md       .drectve       ?                                   .debug$S       D               ?~8              .msvcjmc              ? w                                       .text$mn       =      6沮i     鞞?              .debug$S       ?              0N?              .text$mn              .B+?     D刯J              .debug$S        l              ? ?              Add                                 #                1                N           $LN3            .xdata                憰
+o                          c           .pdata      	         現?    ??                  o       	    .rtc$IMZ    
+                  K梡?                  z       
+    .rtc$TMZ    
+                  ?                  ?       
+    .debug$T       d                                   .chks64     
+   h                                   ?   __3B02585C_Add@c _RTC_InitBase _RTC_Shutdown __CheckForDebuggerJustMyCode __JustMyCode_Default $unwind$Add $pdata$Add _RTC_InitBase.rtc$IMZ _RTC_Shutdown.rtc$TMZ 
