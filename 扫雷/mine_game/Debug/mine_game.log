@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\code\2024\学习1\test.c\扫雷\mine_game\main.cpp(214,1): warning C4715: “PlayGame”: 不是所有的控件路径都返回值
+  mine_game.vcxproj -> D:\code\2024\学习1\test.c\扫雷\Debug\mine_game.exe
